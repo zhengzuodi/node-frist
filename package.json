@@ -135,7 +135,7 @@
     "crypto-random-string": "^1.0.0",
     "debug": "^3.2.6",
     "deep-extend": "^0.6.0",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.2.0",
     "duplexer3": "^0.1.4",
     "escape-string-regexp": "^1.0.5",
     "execa": "^0.7.0",
